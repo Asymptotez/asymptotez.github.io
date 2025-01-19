@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>人生的第一个博客</title>
+      <link href="/2025/01/19/%E4%BA%BA%E7%94%9F%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2025/01/19/%E4%BA%BA%E7%94%9F%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<h1 id="人生的第一个博客"><a href="#人生的第一个博客" class="headerlink" title="人生的第一个博客"></a>人生的第一个博客</h1><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>从进入大学开始就希望有一个属于自己的博客，没想到直到今天才实现。中间很多次都想开始但是都没能下定决心，说到底还是自己有点懒，因为现在网上的学习资源确实很丰富，只要愿意下功夫，其实搭建一个个人博客还是很容易的。</p><h2 id="关于这个博客"><a href="#关于这个博客" class="headerlink" title="关于这个博客"></a>关于这个博客</h2><p>该博客使用 Hexo 框架搭建，然后再利用 GitHub Pages 进行部署，容易上手，而且免费。</p><p>这个博客的搭建参考了视频：<a href="https://www.bilibili.com/video/BV1Yb411a7ty/?share_source=copy_web&vd_source=a1e5e677daaac441bbb081c8eba141e3">手把手教你从0开始搭建自己的个人博客 |无坑版视频教程| hexo</a>。</p><p>然后主题使用的是 <a href="https://github.com/jerryc127/hexo-theme-butterfly/tree/dev">Butterfly</a>，这个参考了好朋友的博客。</p><p>配置框架直接参考文档即可，<a href="https://hexo.io/zh-cn/docs/">Hexo 文档</a> 和 <a href="https://butterfly.js.org/posts/21cfbf15/">Butterfly 文档</a>。</p><h2 id="更新计划"><a href="#更新计划" class="headerlink" title="更新计划"></a>更新计划</h2><p>说到底，学习工具的目的是为了使用工具，如果就用别人的现成工具做了个 demo，然后废弃掉，那么也挺没意义的。所以我打算长期更新这个博客，分享自己的学习生活，记录自己的成长。</p><p>未来的更新计划可能是：</p><ol><li>不定期记录学习、生活；</li><li>继续个性化博客。</li></ol><p>如果你也有兴趣，可以时不时来看看哦！</p><img src="/posts_imgs/top_image.jpg" alt="first-one" width="500">]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客搭建 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
